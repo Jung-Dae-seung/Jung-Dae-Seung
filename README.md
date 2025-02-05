@@ -71,4 +71,8 @@
     <img
       src="https://img.shields.io/badge/eotmd1213@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="mailto:https://cosmic-numeric-804.notion.site/186e126f63c48059aff2fe315b6a2dcc?pvs=74">
+    <img
+      src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
 </div> <br>
