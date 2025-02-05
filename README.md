@@ -86,3 +86,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-Dae-seung&layout=compact)
 
+### 🪪 Me
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=@eotmd1213)](https://velog.io/@eotmd1213)
+<a href="mailto:eotmd1213@naver.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=eotmd1213@naver.com"/></a>
