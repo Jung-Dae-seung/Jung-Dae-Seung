@@ -32,11 +32,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-</div>
-
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
